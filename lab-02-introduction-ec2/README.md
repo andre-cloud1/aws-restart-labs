@@ -48,4 +48,3 @@ Abaixo estão os prints do meu console:
 ![Meu Servidor Web Rodando](./nome-do-seu-print-1.png)
 ![Regra do Security Group](./nome-do-seu-print-2.png)
 
-*(Lembre-se de trocar 'nome-do-seu-print-1.png' pelo nome exato do arquivo que você subiu na Ação 2)*
