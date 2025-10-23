@@ -12,7 +12,7 @@ Aqui eu documento meu progresso e aprendizado prático com os serviços da AWS.
 | :-- | :--- | :--- |
 | **Fundações** |
 | 01 | Introdução ao Gerenciamento de Identidade e Acesso (IAM) | [Link](./lab-279-iam-intro/) |
-| 02 | Introdução ao Amazon EC2 | [Link](./lab-11-ec2-intro/) |
+| 02 | Introdução ao Amazon EC2 | [Link](./lab-02-introduction-ec2/) |
 | 03 | Criar a sua VPC e iniciar um servidor Web | [Link](./lab-267-vpc-webserver/) |
 | **Bancos de Dados** |
 | 04 | Crie seu servidor de banco de dados (RDS) | [Link](./lab-160-rds-database/) |
